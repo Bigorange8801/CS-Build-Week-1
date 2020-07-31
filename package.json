@@ -1,0 +1,19 @@
+{
+  "name": "cs-build-week-1",
+  "version": "1.0.0",
+  "description": "conway game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bigorange8801/CS-Build-Week-1.git"
+  },
+  "author": "John Donaldson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bigorange8801/CS-Build-Week-1/issues"
+  },
+  "homepage": "https://github.com/Bigorange8801/CS-Build-Week-1#readme"
+}
